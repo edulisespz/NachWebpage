@@ -1,0 +1,44 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    
+}
+
+li {
+    float: left;
+}
+
+a:hover{
+    color: #333333;
+}
+
+li a {
+    display: block;
+    color: #767676;
+    text-align: center;
+    padding: 8px 6px;
+    text-decoration: none;
+}
+
+.body{
+    padding-right: 20%;
+    padding-left: 20%;
+    
+}
+
+.headerR{
+    float: right;
+    background-color: #CCC;
+    margin: 0;
+    padding: 0;
+}
+
+.fotter1{
+    background-color: #CCC;
+    padding: 15px;
+    margin: 0;
+    padding: 0;
+}
